@@ -8,7 +8,7 @@ The project consists of two main components:
 
 * Mobile-app: This app contains the code for the NetXus mobile app. It is built using the Flutter framework, and allows users to easily control their system for monitoring their system battery capacity allowing users to find nearby installed system being used by businesses. The app also includes features such as controlling their device remotely as well as activating password system for personalized charging.
 
-* IoT: This component contains all the details about the NetXus IoT device (Prototype) and full codes for reproducibility. The IoT device enables users to control their system and enabling advanced anti-theft feature using the IoT device. NetXus Github IoT link - [NetXus_IoT](https://github.com/nnam-droid12/netxus_IoT)
+* IoT: This component contains all the details about the NetXus IoT device (Prototype) and full codes for reproducibility. The IoT device enables users to control their system and enabling advanced anti-theft feature using the IoT device. NetXus Github IoT link - [NetXus_IoT](https://github.com/Muhammadurasheed/NetXus-IoT-main)
 
 
 
